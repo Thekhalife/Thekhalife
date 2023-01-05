@@ -168,3 +168,52 @@ body{
 	color: #3D445C;
 	font-size: 14.6346px;
 }
+
+#container {
+	width: 1012px;
+	height: 646px;
+	
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;	
+}
+#container {
+	padding:74px 0 200px 0 ;
+}
+#container > .content > .photo {
+	display: inline-block;
+	height: 100%;
+	box-shadow: 8px 20px 24px -4px rgb(17, 24, 39)8px 8px 8px -4px;
+	border-radius: 2px;
+}
+#container > .content > .photo >img{
+	height: 100%;
+	border-radius: 2px;
+}
+#container > .content > .box2 {
+	width: 357.09px;
+	height:  382.7px;
+	background: #2947A9;
+	position: absolute;
+	right: 11%;
+	top: 15%;
+	
+	
+}
+
+.titrew {
+	color: white;
+	font-size: 26.3424px;
+	text-align: left;
+	margin-left: 5%;
+}
+ .textew{
+	color: white;
+	margin-left: 5%;
+	
+	font-size: 14.6346px;
+}
+#container > .content > .box2 > img {
+	
+	margin-left: 5%;
+}
